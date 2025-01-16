@@ -7,7 +7,7 @@
     <div class="flex flex-wrap justify-center gap-6">
       <!-- Image Container 1 -->
       <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
-        <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <img src="img/astha 1.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
         <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
           <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">COC Training</div>
         </div>
@@ -15,30 +15,70 @@
 
       <!-- Repeat for 3 more containers -->
       <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
-        <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <img src="img/astha 2.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
         <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
           <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 1</div>
         </div>
       </div>
 
       <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
-        <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <img src="img/astha 3.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
         <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
           <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 2</div>
         </div>
       </div>
 
       <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
-        <img src="https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <img src="img/astha 4.jpeg" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
         <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
           <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 3</div>
+        </div>
+      </div>
+      <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
+        <img src="img/ev1.webp" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+          <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 4</div>
+        </div>
+      </div>
+
+      <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
+        <img src="img/ev2.webp" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+          <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 5</div>
+        </div>
+      </div>
+
+      <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
+        <img src="img/ev3.webp" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+          <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 6</div>
+        </div>
+      </div>
+      <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
+        <img src="img/ev4.webp" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+          <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 7</div>
+        </div>
+      </div>
+
+      <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
+        <img src="img/ev5.webp" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+          <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 8</div>
+        </div>
+      </div>
+
+      <div class="relative w-56 h-56 rounded-lg overflow-hidden shadow-lg">
+        <img src="img/ev6.webp" alt="Avatar" class="w-full h-full object-cover transition-opacity duration-300 opacity-100 hover:opacity-30">
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+          <div class="text-white text-lg font-semibold bg-blue-600 px-4 py-2 rounded-md">Training 9</div>
         </div>
       </div>
     </div>
 
   </div>
 
-  <button type="button" class="py-2.5 px-5 me-2 justify-items-center m-auto mt-10 flex mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-blue-200 rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">Show More</button>
+  <button type="button" class="py-2.5 px-5 me-2 justify-items-center m-auto mt-10 flex mb-2 text-sm font-medium text-gray-900 focus:outline-none bg-blue-200 rounded-full border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"><a href="https://www.instagram.com/swisscontact/?hl=en">Show More</a></button>
 
  <!-- Footer -->
 <?php require_once('footer.php') ?>
