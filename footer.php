@@ -238,7 +238,7 @@
               });
     </script>
   <!--Project templates-->
-  <!--IT Tutorials-->
+  <!--Events in swisscontact-->
     <!--swiper-->
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
@@ -249,6 +249,7 @@
             const myTutorialSwiper = new Swiper(".my-tutorial-swiper", {
                 slidesPerView: 1,
                 spaceBetween: 20,
+                loop: true,
                 navigation: {
                     nextEl: ".swiper-button-next",
                     prevEl: ".swiper-button-prev",
