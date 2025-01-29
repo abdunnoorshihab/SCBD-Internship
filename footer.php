@@ -1,7 +1,7 @@
 
   <footer class="bg-white shadow py-4 w-full">
         <div class="container mx-auto px-6 text-center text-gray-700">
-          <p>&copy; 2024 Swisscontact. All rights reserved.</p>
+          <p>&copy; 2025 Swisscontact. All rights reserved.</p>
         </div>
   </footer>
   <!-- Header JS -->

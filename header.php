@@ -176,9 +176,9 @@
                     <div class="dropdown">
                         <a href="#" class="dropbtn">IT Help Desk <i class="fas fa-caret-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#">IT Requisition</a>
+                            <a href="it_requisition.php">IT Requisition</a>
                             <a href="#">Tutorials</a>
-                            <a href="#">IT Guidelines</a>
+                            <a href="knowledge_sharing.php">IT Guidelines</a>
                         </div>
                     </div>
                     <a href="photo_gallery.php">Photo Gallery</a>
